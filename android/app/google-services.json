@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580609860481",
+    "project_id": "firstsocialapp-3d902",
+    "storage_bucket": "firstsocialapp-3d902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580609860481:android:96c73e946d14bdc01bfe80",
+        "android_client_info": {
+          "package_name": "com.example.fluttersocial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580609860481-sglt4ehg1lodta04127b2mamubktgvqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBYcWQqv6bLIVl6NKCZiwxZ4-hfLUjDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580609860481-sglt4ehg1lodta04127b2mamubktgvqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
